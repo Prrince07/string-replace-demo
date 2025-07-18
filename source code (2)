@@ -1,0 +1,4 @@
+  
+message = "apple is yellow,\n apple is sweet"
+updated = message.replace("apple", "mango")
+print(updated)
